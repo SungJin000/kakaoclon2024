@@ -1,0 +1,58 @@
+.header {
+  height: 12%;
+  margin-top: 7%;
+}
+
+.header__contentbox {
+  height: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header__friends {
+  font-size: 25px;
+  font-weight: 500;
+  margin-left: 15px;
+}
+
+.header__friends {
+  display: flex;
+  width: 50%;
+}
+
+.header__iconbox {
+  width: 50%;
+  display: flex;
+}
+
+.header__iconbox a i {
+  font-size: 22px;
+}
+
+.header__iconbox a:nth-child(1) {
+  margin-left: 40%;
+  margin-right: 10%;
+}
+
+.header__iconbox a:nth-child(2) {
+  margin-right: 10%;
+}
+
+.header__textbox {
+  background-color: rgba(242, 242, 245, 0.5);
+  height: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.header__text {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.header__textbox i {
+  position: relative;
+  top: 1px;
+}
