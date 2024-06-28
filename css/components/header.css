@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+  margin-top: 35px;
+}
+
+.header__title {
+  width: 50%;
+  display: flex;
+  font-size: 25px;
+  font-weight: 500;
+  margin-left: 15px;
+}
+
+.header__iconbox {
+  width: 50%;
+  display: flex;
+}
+
+.header__iconbox a i {
+  font-size: 22px;
+}
+
+#f-icon1 {
+  margin-left: 40%;
+}
+
+#f-icon2 {
+  margin-left: 10%;
+}
+
+#f-icon3 {
+  margin-left: 10%;
+}

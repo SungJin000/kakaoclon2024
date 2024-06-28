@@ -3,7 +3,7 @@
   position: fixed;
   bottom: 0px;
   width: 100%;
-  height: 6%;
+  height: 70px;
 }
 
 .nav__list {
@@ -11,6 +11,7 @@
   align-items: center;
   display: flex;
   width: 100%;
+  height: 100%;
 }
 
 .nav__btn {
@@ -20,12 +21,12 @@
 }
 
 .nav ul li i {
-  font-size: 20px;
+  font-size: 25px;
   color: rgb(47, 54, 60);
 }
 
 .nav ul li:nth-child(1) i {
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .nav ul li {
@@ -44,7 +45,7 @@
   border-radius: 50%;
   position: absolute;
   right: 31px;
-  bottom: 8px;
+  bottom: 13px;
 }
 
 .nav__link__dot {
